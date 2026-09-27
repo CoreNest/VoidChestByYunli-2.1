@@ -1,0 +1,13 @@
+{
+  "name": "VoidChestByYunli",
+  "version": "2.7.4",
+  "title": "Void Chest + By Yunli",
+  "author": "_Yunli_",
+  "contact": "https://mods.factorio.com/user/_Yunli_",
+  "homepage": "群号:701121067",
+  "description": "水岸花定制的虚空箱. Unofficial Factorio 2.1 compatibility update. Original mod by _Yunli_. MIT license, Copyright (c) 2017 Optera.",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1"
+  ]
+}
